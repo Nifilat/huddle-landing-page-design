@@ -1,0 +1,29 @@
+body {
+  text-align: right;
+  background-color: hsl(257, 40%, 49%);
+  background-image: url("./images/bg-desktop.svg");
+  background-color: hsl(300, 69%, 71%);
+}
+
+#illustration {
+  float: left;
+  justify-content: end;
+}
+
+#logo {
+  float: left;
+}
+
+h3 {
+  font-family: Poppins;
+}
+
+small {
+  font-family: Open Sans;
+}
+
+.fa-brands {
+  color: white;
+  border-radius: 50%;
+  opacity: 2;
+}
